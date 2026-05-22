@@ -16,7 +16,7 @@ This folder contains Week 6 learning and implementation in the MERN Stack journe
 - Node.js
 - Express.js
 - MongoDB
-- JavaScript (ES6+)
+- JavaScript 
 
 ## How to Run
 
