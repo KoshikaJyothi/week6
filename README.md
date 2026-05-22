@@ -1,4 +1,4 @@
-# Week 6 - MERN Stack
+# Week 5,6 - MERN Stack
 
 This folder contains Week 6 learning and implementation in the MERN Stack journey.
 
